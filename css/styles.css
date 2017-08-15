@@ -1,4 +1,12 @@
-.clicker-group {
+.cat-container {
   display: flex;
   flex-direction: row;
+}
+
+#cat-list {
+  width: 100px;
+}
+
+.listed-cat:hover {
+  font-size: 150%;
 }
